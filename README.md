@@ -2,6 +2,6 @@
 <div align="center">
 
 
- ![1000089306](https://github.com/user-attachments/assets/8e4ab4ec-609f-4fc6-802d-bf8cab445d3b) 
+ <img width="1114" height="1136" alt="1000106104" src="https://github.com/user-attachments/assets/136a7240-83b1-4087-8c75-ff6176db9b15" />
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=OICOLOCASEUUSERAQUI&color=EBB638&label=✰‎‎)
