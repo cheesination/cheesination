@@ -9,7 +9,10 @@
 
 
 
-
+<details>
+<summary> ฅ ฅ info!</summary>
+<div align="center">
+<br>
 
 
 
