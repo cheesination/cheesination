@@ -14,8 +14,11 @@
 <div align="center">
 <br>
 
-hello this is a wip
+.ᐟ he / him or she / her .
 
+.ᐟ dniuf unless i int . 
+
+.ᐟ you can call me Ecto .
 
 
 
