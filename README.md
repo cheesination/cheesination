@@ -14,5 +14,10 @@
  <img width="200" height="200" alt="1000107159" src="https://github.com/user-attachments/assets/7265f1b8-7897-478e-8eec-4d8a956c4449" />
 
 
+
+
+
+
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=OICOLOCASEUUSERAQUI&color=EBB638&label=✰‎‎)
 
