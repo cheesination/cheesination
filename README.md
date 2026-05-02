@@ -10,8 +10,7 @@
 
 
 <details>
-<summary> ฅ ฅ 𝑰nfo!
-wip.. </summary>
+<summary> ฅ ฅ 𝑰nfo! -wip </summary>
 <div align="center">
 <br>
 
