@@ -24,17 +24,23 @@
 
 .ᐟ you can call me ecto .
 </details>
-<details>
-<summary> ฅ ฅ 𝑲ins! </summary>
-<div align="center">
-<br>
-.ᐟ Garbo ( Meleeniacs )
- 
- <br>
-.ᐟ Bive ( Regretevator )
 
-<br>
-.ᐟ Bayani ( House Of Puso )
 
- <br>
-</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
