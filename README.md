@@ -18,9 +18,8 @@
 
 .ᐟ dniuf unless i int . 
 
-.ᐟ you can call me Ecto .
+.ᐟ BIG lemon demon fan .
 
-
-
+.ᐟ you can call me ecto .
 
 
