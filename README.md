@@ -12,7 +12,7 @@
 
 
 <details>
-<summary> ฅ ฅ 𝑰nfo! - </summary>
+<summary> ฅ ฅ 𝑰nfo!  </summary>
 <div align="center">
 <br>
 
@@ -23,5 +23,11 @@
 .ᐟ BIG lemon demon fan .
 
 .ᐟ you can call me ecto .
-
-
+</details>
+<details>
+<summary> ฅ ฅ 𝑲ins! </summary>
+<div align="center">
+<br>
+.ᐟ Garbo ( Meleeniacs )
+.ᐟ Bive ( Regretevator )
+.ᐟ Bayani ( House Of Puso )
