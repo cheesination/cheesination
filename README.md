@@ -29,5 +29,12 @@
 <div align="center">
 <br>
 .ᐟ Garbo ( Meleeniacs )
+ 
+ <br>
 .ᐟ Bive ( Regretevator )
+
+<br>
 .ᐟ Bayani ( House Of Puso )
+
+ <br>
+</details>
