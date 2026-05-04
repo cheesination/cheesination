@@ -48,6 +48,6 @@
 <img width="130" height="17" alt="IMG_1762" src="https://github.com/user-attachments/assets/c1ae66d1-c5a6-4061-a9a6-e8d0a31d777c" />
 <br>
 <img width="100" height="96" alt="IMG_1763" src="https://github.com/user-attachments/assets/fafc493a-dc20-4875-990a-67b2f9964189" />
-
+no i absolutely hate you
 MEWO STOP DOING THUS PLEADE
 PLEASE*
