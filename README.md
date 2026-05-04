@@ -47,6 +47,7 @@
 
 <img width="130" height="17" alt="IMG_1762" src="https://github.com/user-attachments/assets/c1ae66d1-c5a6-4061-a9a6-e8d0a31d777c" />
 <br>
-<img width="91" height="100" alt="IMG_1759" src="https://github.com/user-attachments/assets/47127601-8c67-40b8-9752-0d283b55c561" />
+<img width="100" height="96" alt="IMG_1763" src="https://github.com/user-attachments/assets/fafc493a-dc20-4875-990a-67b2f9964189" />
+
 MEWO STOP DOING THUS PLEADE
 PLEASE*
