@@ -7,6 +7,7 @@
 <br>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=kaleidoskuls&color=EBB638&label=theories)
+<br>
 <img width="100" height="100" alt="1000107159" src="https://github.com/user-attachments/assets/1334e33a-a5a9-40c3-b93e-8e4a9b1b9eaa" />
 
 
