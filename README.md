@@ -19,7 +19,7 @@
 
 .ᐟ he / him or she / her .
 
-.ᐟ dniuf unless i int . 
+.ᐟ dniuid . 
 
 .ᐟ BIG lemon demon fan .
 
@@ -44,5 +44,5 @@
 
 
 
-0
+
 
