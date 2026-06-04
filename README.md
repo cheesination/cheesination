@@ -1,14 +1,13 @@
 
 <div align="center">
 
- : 𝐂𝐚𝐮𝐬𝐞 𝐈'𝐦 𝐭𝐡𝐞 𝐫𝐢𝐠𝐡𝐭 𝐨𝐧𝐞  ! 
+  ♪ Burger King fries on a dashboard underneath the burning hot sun
 
-<img width="500" height="550" alt="1000107144" src="https://github.com/user-attachments/assets/fd1ca57e-afde-4526-9697-85192bbbe6b8" />
-<br>
+<img width="250" height="250" alt="1000123766" src="https://github.com/user-attachments/assets/b7dd3033-49e0-4b70-a5c1-5cf4ff7d4e71" />
 
-![GitHub Views](https://komarev.com/ghpvc/?username=kaleidoskuls&color=EBB638&label=theories)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=kaleidoskuls&color=86533a&label=kittens)
 <br>
-<img width="100" height="100" alt="1000107159" src="https://github.com/user-attachments/assets/1334e33a-a5a9-40c3-b93e-8e4a9b1b9eaa" />
 
 
 
@@ -27,9 +26,11 @@
 </details>
 
 
+<details>
+<summary> </summary>
 
-
-
+<img width="250" height="250" alt="1000123684" src="https://github.com/user-attachments/assets/e5f0bb17-bfd8-4507-be8b-5303566b8fa8" />
+</details>
 
 
 
