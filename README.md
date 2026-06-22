@@ -18,7 +18,7 @@
 
 <img width="20" height="20" alt="1000139297" src="https://github.com/user-attachments/assets/22e53181-f812-45b6-8278-0bda14d886e7" /> : < I act weird sometimes.. don't mind that .
 
-<img width="20" height="20" alt="1000139297" src="https://github.com/user-attachments/assets/22e53181-f812-45b6-8278-0bda14d886e7" /> : < : < brazilian hi
+<img width="20" height="20" alt="1000139297" src="https://github.com/user-attachments/assets/22e53181-f812-45b6-8278-0bda14d886e7" /> : < brazilian hi
 <br>
 
 </details>
