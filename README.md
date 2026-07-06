@@ -41,6 +41,8 @@
 
 <img width="20" height="20" alt="1000139297" src="https://github.com/user-attachments/assets/22e53181-f812-45b6-8278-0bda14d886e7" /> : < gaming .
 
+<img width="20" height="20" alt="1000139297" src="https://github.com/user-attachments/assets/22e53181-f812-45b6-8278-0bda14d886e7" /> : < sewing .
+
 </details>
 <div align="center">
 <img width="600" height="100" alt="1000139276" src="https://github.com/user-attachments/assets/6fd6b19e-99bc-4bb5-9f69-ef179321b384" />
