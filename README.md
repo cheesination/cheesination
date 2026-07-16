@@ -48,4 +48,4 @@
 <div align ="center">
 <img width="129" height="129" alt="1000154992" src="https://github.com/user-attachments/assets/37f25636-8385-47e1-b094-a21a5d69af9a" /><img width="129" height="129" alt="1000154998" src="https://github.com/user-attachments/assets/17aff1b7-02ce-4997-9637-9cfb4aa1f9da" /><img width="129" height="129" alt="1000155000" src="https://github.com/user-attachments/assets/d356260d-4c29-49e1-86e3-fbd7884474f4" />
 
-
+I hate how it looks 😢😢
