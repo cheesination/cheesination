@@ -50,7 +50,13 @@
 <img width="1000" height="80" alt="1000155041" src="https://github.com/user-attachments/assets/bd1dcea6-87b3-44d3-9c02-4e6b506b420c" />
 <div align ="center">
 <img width="129" height="129" alt="1000154992" src="https://github.com/user-attachments/assets/37f25636-8385-47e1-b094-a21a5d69af9a" /><img width="129" height="129" alt="1000154998" src="https://github.com/user-attachments/assets/17aff1b7-02ce-4997-9637-9cfb4aa1f9da" /><img width="129" height="129" alt="1000155000" src="https://github.com/user-attachments/assets/d356260d-4c29-49e1-86e3-fbd7884474f4" />
-
-<div align ="center">
   
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5ez1i200cqxxvkdwhlshthajx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00ffff&interchange=false&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
+</details>
+
+<div align ="center">
+<details> 
+  <summary> </summary>
+  <img width="600" height="150" alt="1000165947" src="https://github.com/user-attachments/assets/12cdee66-5024-41f7-9d3a-f0b18bdc0578" />
